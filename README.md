@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Sanskar Pokharel
+- 🌱 I’m currently learning Python and JavaScript.
